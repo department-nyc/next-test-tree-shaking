@@ -1,0 +1,21 @@
+{
+  "name": "next-test-tree-shaking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "workspaces": ["packages/*"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/department-nyc/next-test-tree-shaking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/department-nyc/next-test-tree-shaking/issues"
+  },
+  "homepage": "https://github.com/department-nyc/next-test-tree-shaking#readme"
+}
